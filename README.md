@@ -1,4 +1,4 @@
-# x-citizen-organization
+# X-Citizen Organization
 
 ## Who we are
 * We are loyal guardians of earth mother.
