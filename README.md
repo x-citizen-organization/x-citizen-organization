@@ -2,7 +2,6 @@
 
 ## Who we are
 * We are loyal guardians of earth mother.
-x-citizen-organization
 
 ## Disaster we face
 * Epidemic
