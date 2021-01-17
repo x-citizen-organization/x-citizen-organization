@@ -10,10 +10,14 @@
 
 ### Disaster we face
 * Epidemic
+* [Health Emergency](https://extranet.who.int/publicemergency)
 * [COVID-19](https://covid19.who.int/)
 
+### Advice for X-Citizen
+* [Advice for COVID-19](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public)
+
 ### What we support
-* [World Health Organization](https://covid19.who.int/)
+* [World Health Organization](https://www.who.int/)
 
 ## Our spirit
 
